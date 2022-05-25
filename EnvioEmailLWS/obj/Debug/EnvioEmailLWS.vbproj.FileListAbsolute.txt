@@ -1,0 +1,11 @@
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\bin\Debug\EnvioEmailLWS.exe.config
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\bin\Debug\EnvioEmailLWS.exe
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\bin\Debug\EnvioEmailLWS.pdb
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\bin\Debug\EnvioEmailLWS.xml
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\obj\Debug\EnvioEmailLWS.Form1.resources
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\obj\Debug\EnvioEmailLWS.Resources.resources
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\obj\Debug\EnvioEmailLWS.vbproj.GenerateResource.cache
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\obj\Debug\EnvioEmailLWS.vbproj.CoreCompileInputs.cache
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\obj\Debug\EnvioEmailLWS.exe
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\obj\Debug\EnvioEmailLWS.xml
+C:\Users\Naxos\source\repos\EnvioEmailLWS\EnvioEmailLWS\obj\Debug\EnvioEmailLWS.pdb
